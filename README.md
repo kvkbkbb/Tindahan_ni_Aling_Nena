@@ -264,3 +264,6 @@ Fill in names next to each area.
 - [ ] Agree on the denomination list
 - [ ] Decide the two open *Kulang po* rules
 - [ ] Everyone clones, opens the `.sln`, and confirms it builds
+
+
+This README.md and the organization of this project was assisted with the help of Claude.
