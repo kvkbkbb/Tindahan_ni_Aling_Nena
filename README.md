@@ -257,13 +257,5 @@ Fill in names next to each area.
 
 ---
 
-## Day one checklist
-
-- [ ] One person creates the project and pushes it, with `.gitignore` (Visual Studio template) and this README
-- [ ] Push empty stub files for every class above, with the public members listed
-- [ ] Agree on the denomination list
-- [ ] Decide the two open *Kulang po* rules
-- [ ] Everyone clones, opens the `.sln`, and confirms it builds
-
 
 This README.md and the organization of this project was assisted with the help of Claude.
