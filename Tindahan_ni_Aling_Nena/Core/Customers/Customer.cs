@@ -8,5 +8,6 @@ namespace Tindahan_ni_Aling_Nena.Core.Customers
 {
     internal class Customer
     {
+
     }
 }
