@@ -28,12 +28,11 @@ namespace Tindahan_ni_Aling_Nena.Core.Money
         public static readonly Denomination Coin10 = new Denomination("₱10 coin", 10m, false);
         public static readonly Denomination Coin5 = new Denomination("₱5 coin", 5m, false);
         public static readonly Denomination Coin1 = new Denomination("₱1 coin", 1m, false);
-        public static readonly Denomination Coin25c = new Denomination("25¢ coin", 0.25m, false);
 
         public static readonly IReadOnlyList<Denomination> All = new List<Denomination>
         {
             Bill1000, Bill500, Bill200, Bill100, Bill50, Bill20,
-            Coin20, Coin10, Coin5, Coin1, Coin25c
+            Coin20, Coin10, Coin5, Coin1
         }.AsReadOnly();
 
         public override string ToString() => Name;
