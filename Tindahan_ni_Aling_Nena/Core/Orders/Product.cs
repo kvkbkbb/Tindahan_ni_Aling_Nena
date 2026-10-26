@@ -4,15 +4,13 @@
     {
         public string Name { get; }
         public decimal Price { get; }
-        public string ImageKey { get; }
 
-        public Product(string name, decimal price, string imageKey)
+        public Product(string name, decimal price)
         {
             Name = name;
             Price = price;
-            ImageKey = imageKey;
         }
 
-        public override string ToString() => $"{Name} (₱{Price:0.00})";
+        public override string ToString() => $"{Name} (₱{Price:0})";
     }
 }
