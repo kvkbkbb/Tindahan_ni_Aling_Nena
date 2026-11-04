@@ -16,5 +16,5 @@ public abstract class Customer
         return order;
     }
 
-    public abstract List<Denomination> Pay(PaymentGenerator paymentGenerator);
+    public abstract List<Denomination> GeneratePayment(PaymentGenerator paymentGenerator);
 }

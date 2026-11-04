@@ -7,9 +7,10 @@ public class OverPayingCustomer : Customer
 {
     public OverPayingCustomer(Order order) : base(order)
     {
+        
     }
 
-    public override List<Denomination> Pay(PaymentGenerator paymentGenerator)
+    public override List<Denomination> GeneratePayment(PaymentGenerator paymentGenerator)
     {
         return paymentGenerator.GenerateOverPayment(order.GetTotalCost());
     }

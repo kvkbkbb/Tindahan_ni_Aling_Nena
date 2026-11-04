@@ -49,7 +49,7 @@ for (int customerNumber = 1; customerNumber <= 3; customerNumber++)
     Console.WriteLine("Customer type: " + customer.GetType().Name);
 
     // 3. the customer pays
-    List<Denomination> payment = customer.Pay(paymentGenerator);
+    List<Denomination> payment = customer.GeneratePayment(paymentGenerator);
     int amountPaid = 0;
 
     foreach (Denomination piece in payment)

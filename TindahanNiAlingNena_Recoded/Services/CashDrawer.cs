@@ -1,4 +1,3 @@
-// Services/CashDrawer.cs
 using TindahanNiAlingNena_Recoded.Models.Money;
 
 namespace TindahanNiAlingNena_Recoded.Services;

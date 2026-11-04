@@ -7,9 +7,10 @@ public class ExactPayingCustomer : Customer
 {
     public ExactPayingCustomer(Order order) : base(order)
     {
+        
     }
 
-    public override List<Denomination> Pay(PaymentGenerator paymentGenerator)
+    public override List<Denomination> GeneratePayment(PaymentGenerator paymentGenerator)
     {
         return paymentGenerator.GenerateExactPayment(order.GetTotalCost());
     }
