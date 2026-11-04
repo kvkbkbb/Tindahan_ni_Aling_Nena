@@ -22,3 +22,4 @@ C:\Users\Kev\source\repos\TindahanNiAlingNena_Recoded\TindahanNiAlingNena_Recode
 C:\Users\Kev\source\repos\TindahanNiAlingNena_Recoded\TindahanNiAlingNena_Recoded\bin\Debug\net10.0\Assets\Coins\PHP_10.png
 C:\Users\Kev\source\repos\TindahanNiAlingNena_Recoded\TindahanNiAlingNena_Recoded\bin\Debug\net10.0\Assets\Coins\PHP_5.png
 C:\Users\Kev\source\repos\TindahanNiAlingNena_Recoded\TindahanNiAlingNena_Recoded\bin\Debug\net10.0\Assets\Receipt.png
+C:\Users\Kev\source\repos\TindahanNiAlingNena_Recoded\TindahanNiAlingNena_Recoded\obj\Debug\net10.0\TindahanNiAlingNena_Recoded.sourcelink.json

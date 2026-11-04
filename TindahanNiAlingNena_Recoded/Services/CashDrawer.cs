@@ -12,13 +12,13 @@ public class CashDrawer
         // Small denominations first, since they are used most often for change.
         AddStartingPieces(Coin.Denominations[1], 30);
         AddStartingPieces(Coin.Denominations[5], 20);
-        AddStartingPieces(Coin.Denominations[10], 20);
+        AddStartingPieces(Coin.Denominations[10], 10);
 
         AddStartingPieces(Bill.Denominations[20], 10);
         AddStartingPieces(Bill.Denominations[50], 5);
-        AddStartingPieces(Bill.Denominations[100], 5);
-        AddStartingPieces(Bill.Denominations[200], 2);
-        AddStartingPieces(Bill.Denominations[500], 1);
+        AddStartingPieces(Bill.Denominations[100], 2);
+        //AddStartingPieces(Bill.Denominations[200], 2);
+        //AddStartingPieces(Bill.Denominations[500], 1);
     }
 
     private void AddStartingPieces(Denomination denomination, int amountOfPieces)
