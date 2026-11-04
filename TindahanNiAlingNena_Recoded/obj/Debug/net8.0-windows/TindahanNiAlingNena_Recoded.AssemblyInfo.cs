@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TindahanNiAlingNena_Recoded")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18ca140ef0b28112599afe69651986ff0ede8105")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cfe2915fd92e31d1b58c81464a0d45af95ac534")]
 [assembly: System.Reflection.AssemblyProductAttribute("TindahanNiAlingNena_Recoded")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TindahanNiAlingNena_Recoded")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
